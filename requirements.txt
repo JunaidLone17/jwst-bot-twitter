@@ -1,0 +1,4 @@
+python-dotenv==0.19.2
+requests-html==0.10.0
+tweepy==4.0.0
+requests==2.25.1
